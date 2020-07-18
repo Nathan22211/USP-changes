@@ -1,0 +1,2 @@
+mods.botania.Apothecary.removeRecipe(<botania:specialflower>.withTag({type: "clayconia"}));
+mods.botania.Apothecary.addRecipe(<botania:specialflower>.withTag({type: "clayconia"}), [<ore:petalLightGray>, <ore:petalLightGray>, <ore:petalLightGray>, <ore:petalLightGray>, <ore:petalLightGray>, <ore:petalLightGray>, <ore:petalLightGray>, <minecraft:sapling:1>]);

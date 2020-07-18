@@ -1,0 +1,18 @@
+{
+	"id": "dirt",
+	"inputs": [
+		"minecraft:dirt:0"
+	],
+	"output": "minecraft:dirt:0:1",
+	"diggableBlocks": [
+		"minecraft:dirt:2"
+	],
+	"renderBlock": "minecraft:dirt:0",
+	"validDimensopns": [
+		0,
+	],
+	"maxHealth": 5.0,
+	"movementSpeed": 0.10,
+	"armorAmount": 0,
+	"digTickDelay": 500
+}

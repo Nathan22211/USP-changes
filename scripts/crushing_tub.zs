@@ -1,0 +1,1 @@
+mods.rustic.CrushingTub.addRecipe(<liquid:water> * 125, null, <minecraft:sapling:0> * 1);
