@@ -1,0 +1,2 @@
+mods.botania.RuneAltar.addRecipe(<sky_orchards:sapling_dirt>,[<mysticalagriculture:storage:0>, <minecraft:sapling:0>, <minecraft:dirt:0>, <minecraft:dirt:0>], 250);
+mods.botania.RuneAltar.addRecipe(<mysticalagriculture:dirt_seeds>,[<sky_orchards:amber_dirt>, <sky_orchards:amber_dirt>, <mysticalagriculture:crafting:17>, <minecraft:dirt:0>], 500);

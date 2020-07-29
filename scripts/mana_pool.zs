@@ -4,3 +4,13 @@ mods.botania.ManaInfusion.addInfusion(<minecraft:sapling:2>, <contenttweaker:dea
 mods.botania.ManaInfusion.addInfusion(<minecraft:sapling:3>, <contenttweaker:dead_jungle>, 50);
 mods.botania.ManaInfusion.addInfusion(<minecraft:sapling:4>, <contenttweaker:dead_acacia>, 50);
 mods.botania.ManaInfusion.addInfusion(<minecraft:sapling:5>, <contenttweaker:dead_dark_oak>, 50);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:0>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:0>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:1>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:1>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:2>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:2>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:3>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:3>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:4>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:4>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:5>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:5>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<vefluids:vebucket:6>.withTag({Fluid: {FluidName: "mana water", Amount: 1000}}), <vefluids:vebucket:6>.withTag({Fluid: {FluidName: "water", Amount: 1000}}), 1000);
+mods.botania.ManaInfusion.addInfusion(<forge:bucketfilled>.withTag({FluidName: "mana water", Amount: 1000}), <minecraft:water_bucket>, 1000);
+mods.botania.ManaInfusion.removeRecipe(<minecraft:tallgrass:1>);
+mods.botania.ManaInfusion.addInfusion(<minecraft:tallgrass:1>, <minecraft:deadbush>, 500);

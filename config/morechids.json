@@ -1,0 +1,13 @@
+{
+    "orechid_aether": {
+        "manaCost": 1000,
+        "cooldown": 2
+    },
+    "sand_dasiy": {
+        "manaCost": 0,
+        "timeCost": 500,
+        "coolDown": 20,
+        "range": 1,
+        "rangeY": 0
+    }
+}
